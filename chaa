@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="wihrggyghffuyuiruryuyhghdth=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Aesthetic</h1>
+<p>
+    <img src="aesthetic.jpg" alt="">
+</p>
+<p>Keindahan yang selalu diharapkan.</p>
+<button>klik</button>
+<br><br>
+<table border="1"> 
+    <tr>
+      <th>No</th>
+      <th>Nama</th>
+      <th>Alamat</th>
+    </tr>
+    <tr>
+      <td>1.</td>
+      <td>Kheisya</td>
+      <td>Tengku bey</td>
+    </tr>
+    <tr>
+      <td>2.</td>
+      <td>angray</td>
+      <td>Tengku bey</td>
+    </tr>
+    <tr>
+        <td>3.</td>
+        <td>Zahra</td>
+        <td>Alam mayang</td>
+    </tr>
+    <tr>
+        <td>4.</td>
+        <td>Salsa</td>
+        <td>Puyuh mas</td>
+    </tr>
+    <tr>
+        <td>5.</td>
+        <td>Ikhda</td>
+        <td>Lumba-lumba</td>
+    </tr>
+  </table> 
+    
+</body>
+</html>
